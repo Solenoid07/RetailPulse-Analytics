@@ -1,0 +1,506 @@
+Date,Product_ID,Category,Product_Name,Units_Sold,Unit_Price,Revenue,Stock_Remaining,Region
+2025-08-08,P107,Electronics,Monitor 24in,5,12000,60000,0,North
+2025-06-27,P104,Electronics,Gaming Mouse,4,850,3400,127,North
+2025-10-26,P102,Fashion,Denim Jacket,15,1200,18000,127,East
+2025-10-04,P102,Fashion,Denim Jacket,9,1200,10800,135,West
+2025-07-05,P107,Electronics,Monitor 24in,12,12000,144000,76,East
+2025-08-09,P103,Home,Smart Bulb,15,450,6750,11,South
+2025-07-18,P103,Home,Smart Bulb,4,450,1800,98,South
+2025-08-16,P106,Home,Blender,9,2100,18900,140,South
+2025-06-03,P105,Fashion,Sneakers,4,3200,12800,34,South
+2025-07-13,P107,Electronics,Monitor 24in,6,12000,72000,145,South
+2025-11-24,P101,Electronics,Wireless Buds,3,2500,7500,124,East
+2025-06-01,P103,Home,Smart Bulb,12,450,5400,87,East
+2025-09-04,P101,Electronics,Wireless Buds,1,2500,2500,4,South
+2025-08-21,P102,Fashion,Denim Jacket,1,1200,1200,119,South
+2025-08-13,P101,Electronics,Wireless Buds,3,2500,7500,63,South
+2025-08-16,P106,Home,Blender,15,2100,31500,17,South
+2025-08-04,P107,Electronics,Monitor 24in,2,12000,24000,121,South
+2025-07-31,P102,Fashion,Denim Jacket,1,1200,1200,54,West
+2025-10-02,P102,Fashion,Denim Jacket,3,1200,3600,111,West
+2025-09-06,P104,Electronics,Gaming Mouse,3,850,2550,130,North
+2025-06-15,P106,Home,Blender,6,2100,12600,100,East
+2025-08-19,P103,Home,Smart Bulb,4,450,1800,55,South
+2025-10-27,P105,Fashion,Sneakers,5,3200,16000,103,West
+2025-07-22,P101,Electronics,Wireless Buds,5,2500,12500,5,North
+2025-08-06,P106,Home,Blender,2,2100,4200,61,North
+2025-08-09,P101,Electronics,Wireless Buds,9,2500,22500,145,North
+2025-09-04,P105,Fashion,Sneakers,5,3200,16000,82,North
+2025-10-22,P101,Electronics,Wireless Buds,3,2500,7500,4,East
+2025-07-24,P105,Fashion,Sneakers,2,3200,6400,19,West
+2025-09-01,P103,Home,Smart Bulb,1,450,450,3,South
+2025-10-19,P107,Electronics,Monitor 24in,12,12000,144000,112,South
+2025-10-05,P103,Home,Smart Bulb,9,450,4050,26,North
+2025-11-18,P103,Home,Smart Bulb,3,450,1350,18,South
+2025-09-13,P106,Home,Blender,3,2100,6300,23,East
+2025-07-14,P104,Electronics,Gaming Mouse,2,850,1700,60,East
+2025-07-02,P107,Electronics,Monitor 24in,5,12000,60000,69,West
+2025-09-28,P107,Electronics,Monitor 24in,12,12000,144000,99,North
+2025-06-18,P102,Fashion,Denim Jacket,4,1200,4800,14,South
+2025-06-08,P103,Home,Smart Bulb,3,450,1350,97,West
+2025-10-17,P107,Electronics,Monitor 24in,5,12000,60000,18,South
+2025-08-14,P105,Fashion,Sneakers,2,3200,6400,64,North
+2025-06-09,P107,Electronics,Monitor 24in,3,12000,36000,43,West
+2025-08-10,P107,Electronics,Monitor 24in,6,12000,72000,81,West
+2025-10-07,P107,Electronics,Monitor 24in,3,12000,36000,102,North
+2025-10-27,P107,Electronics,Monitor 24in,1,12000,12000,90,East
+2025-11-08,P103,Home,Smart Bulb,12,450,5400,27,South
+2025-07-10,P106,Home,Blender,5,2100,10500,91,West
+2025-06-19,P104,Electronics,Gaming Mouse,4,850,3400,27,North
+2025-07-26,P107,Electronics,Monitor 24in,15,12000,180000,54,South
+2025-07-18,P101,Electronics,Wireless Buds,5,2500,12500,114,East
+2025-11-09,P103,Home,Smart Bulb,15,450,6750,83,West
+2025-10-07,P101,Electronics,Wireless Buds,3,2500,7500,5,East
+2025-08-01,P101,Electronics,Wireless Buds,2,2500,5000,1,North
+2025-11-15,P106,Home,Blender,3,2100,6300,71,East
+2025-10-23,P103,Home,Smart Bulb,2,450,900,24,South
+2025-09-14,P104,Electronics,Gaming Mouse,6,850,5100,76,West
+2025-07-04,P107,Electronics,Monitor 24in,3,12000,36000,133,East
+2025-11-13,P105,Fashion,Sneakers,2,3200,6400,123,North
+2025-08-01,P104,Electronics,Gaming Mouse,3,850,2550,133,West
+2025-06-30,P101,Electronics,Wireless Buds,1,2500,2500,3,South
+2025-08-31,P105,Fashion,Sneakers,3,3200,9600,84,East
+2025-09-24,P102,Fashion,Denim Jacket,4,1200,4800,21,North
+2025-09-30,P101,Electronics,Wireless Buds,5,2500,12500,103,South
+2025-07-25,P104,Electronics,Gaming Mouse,1,850,850,22,North
+2025-10-03,P103,Home,Smart Bulb,5,450,2250,44,South
+2025-09-01,P105,Fashion,Sneakers,2,3200,6400,82,South
+2025-06-20,P104,Electronics,Gaming Mouse,1,850,850,14,North
+2025-11-13,P105,Fashion,Sneakers,3,3200,9600,88,South
+2025-11-06,P101,Electronics,Wireless Buds,1,2500,2500,15,South
+2025-09-08,P101,Electronics,Wireless Buds,3,2500,7500,67,East
+2025-11-28,P103,Home,Smart Bulb,5,450,2250,85,North
+2025-11-27,P107,Electronics,Monitor 24in,3,12000,36000,39,North
+2025-11-04,P101,Electronics,Wireless Buds,5,2500,12500,98,South
+2025-08-02,P103,Home,Smart Bulb,9,450,4050,140,North
+2025-06-03,P107,Electronics,Monitor 24in,5,12000,60000,96,North
+2025-10-29,P105,Fashion,Sneakers,3,3200,9600,139,South
+2025-09-07,P103,Home,Smart Bulb,9,450,4050,130,North
+2025-11-11,P107,Electronics,Monitor 24in,4,12000,48000,4,South
+2025-06-09,P107,Electronics,Monitor 24in,4,12000,48000,99,West
+2025-10-15,P105,Fashion,Sneakers,5,3200,16000,128,East
+2025-10-12,P103,Home,Smart Bulb,15,450,6750,62,North
+2025-10-17,P105,Fashion,Sneakers,1,3200,3200,136,East
+2025-10-31,P101,Electronics,Wireless Buds,4,2500,10000,101,West
+2025-11-14,P101,Electronics,Wireless Buds,3,2500,7500,51,South
+2025-07-10,P101,Electronics,Wireless Buds,1,2500,2500,1,North
+2025-07-16,P102,Fashion,Denim Jacket,4,1200,4800,24,East
+2025-08-18,P104,Electronics,Gaming Mouse,1,850,850,139,North
+2025-07-20,P105,Fashion,Sneakers,15,3200,48000,52,West
+2025-10-03,P106,Home,Blender,2,2100,4200,11,South
+2025-10-26,P107,Electronics,Monitor 24in,6,12000,72000,143,North
+2025-11-22,P103,Home,Smart Bulb,9,450,4050,135,North
+2025-11-23,P101,Electronics,Wireless Buds,3,2500,7500,5,South
+2025-08-25,P107,Electronics,Monitor 24in,5,12000,60000,27,South
+2025-08-31,P105,Fashion,Sneakers,15,3200,48000,31,North
+2025-10-10,P103,Home,Smart Bulb,4,450,1800,31,North
+2025-08-12,P101,Electronics,Wireless Buds,2,2500,5000,2,North
+2025-09-28,P104,Electronics,Gaming Mouse,6,850,5100,123,West
+2025-09-29,P104,Electronics,Gaming Mouse,3,850,2550,43,North
+2025-10-05,P104,Electronics,Gaming Mouse,12,850,10200,101,North
+2025-06-22,P101,Electronics,Wireless Buds,15,2500,37500,3,West
+2025-10-04,P104,Electronics,Gaming Mouse,3,850,2550,33,West
+2025-08-16,P103,Home,Smart Bulb,15,450,6750,44,East
+2025-08-04,P107,Electronics,Monitor 24in,4,12000,48000,40,East
+2025-08-27,P107,Electronics,Monitor 24in,1,12000,12000,25,North
+2025-07-24,P102,Fashion,Denim Jacket,2,1200,2400,135,South
+2025-06-29,P107,Electronics,Monitor 24in,9,12000,108000,66,North
+2025-10-31,P106,Home,Blender,4,2100,8400,91,West
+2025-09-02,P103,Home,Smart Bulb,4,450,1800,18,North
+2025-06-16,P104,Electronics,Gaming Mouse,3,850,2550,139,East
+2025-08-06,P106,Home,Blender,3,2100,6300,48,East
+2025-06-27,P101,Electronics,Wireless Buds,2,2500,5000,3,West
+2025-11-20,P105,Fashion,Sneakers,4,3200,12800,32,East
+2025-11-18,P101,Electronics,Wireless Buds,1,2500,2500,143,West
+2025-11-18,P106,Home,Blender,4,2100,8400,62,South
+2025-08-17,P102,Fashion,Denim Jacket,12,1200,14400,128,North
+2025-07-07,P101,Electronics,Wireless Buds,4,2500,10000,89,North
+2025-07-29,P103,Home,Smart Bulb,2,450,900,148,North
+2025-08-21,P101,Electronics,Wireless Buds,3,2500,7500,127,South
+2025-08-29,P104,Electronics,Gaming Mouse,5,850,4250,39,North
+2025-11-24,P103,Home,Smart Bulb,3,450,1350,118,West
+2025-06-24,P107,Electronics,Monitor 24in,5,12000,60000,47,North
+2025-10-29,P103,Home,Smart Bulb,1,450,450,143,East
+2025-11-11,P103,Home,Smart Bulb,2,450,900,105,South
+2025-10-13,P102,Fashion,Denim Jacket,4,1200,4800,150,South
+2025-08-14,P102,Fashion,Denim Jacket,4,1200,4800,57,East
+2025-11-28,P104,Electronics,Gaming Mouse,3,850,2550,142,West
+2025-07-13,P103,Home,Smart Bulb,3,450,1350,51,East
+2025-11-15,P104,Electronics,Gaming Mouse,12,850,10200,21,North
+2025-10-04,P104,Electronics,Gaming Mouse,3,850,2550,20,North
+2025-09-27,P101,Electronics,Wireless Buds,6,2500,15000,37,South
+2025-10-13,P107,Electronics,Monitor 24in,1,12000,12000,39,West
+2025-10-10,P105,Fashion,Sneakers,3,3200,9600,17,East
+2025-11-08,P103,Home,Smart Bulb,15,450,6750,60,West
+2025-08-18,P106,Home,Blender,5,2100,10500,79,West
+2025-09-22,P105,Fashion,Sneakers,1,3200,3200,17,North
+2025-10-11,P104,Electronics,Gaming Mouse,9,850,7650,70,North
+2025-09-13,P102,Fashion,Denim Jacket,6,1200,7200,38,South
+2025-07-23,P106,Home,Blender,1,2100,2100,66,West
+2025-06-08,P101,Electronics,Wireless Buds,12,2500,30000,2,East
+2025-09-13,P101,Electronics,Wireless Buds,6,2500,15000,95,West
+2025-06-28,P105,Fashion,Sneakers,6,3200,19200,120,South
+2025-08-10,P105,Fashion,Sneakers,9,3200,28800,101,West
+2025-08-23,P106,Home,Blender,3,2100,6300,141,South
+2025-06-15,P107,Electronics,Monitor 24in,15,12000,180000,39,South
+2025-06-10,P101,Electronics,Wireless Buds,2,2500,5000,67,East
+2025-06-24,P104,Electronics,Gaming Mouse,5,850,4250,138,East
+2025-09-05,P101,Electronics,Wireless Buds,2,2500,5000,105,East
+2025-07-03,P107,Electronics,Monitor 24in,5,12000,60000,54,East
+2025-11-13,P105,Fashion,Sneakers,1,3200,3200,110,South
+2025-10-18,P102,Fashion,Denim Jacket,15,1200,18000,38,West
+2025-09-30,P104,Electronics,Gaming Mouse,1,850,850,86,East
+2025-08-19,P101,Electronics,Wireless Buds,5,2500,12500,86,South
+2025-06-18,P104,Electronics,Gaming Mouse,5,850,4250,130,West
+2025-11-17,P103,Home,Smart Bulb,3,450,1350,15,West
+2025-11-07,P104,Electronics,Gaming Mouse,3,850,2550,52,West
+2025-07-10,P102,Fashion,Denim Jacket,3,1200,3600,43,West
+2025-10-28,P101,Electronics,Wireless Buds,3,2500,7500,128,North
+2025-06-19,P106,Home,Blender,4,2100,8400,27,South
+2025-08-16,P104,Electronics,Gaming Mouse,3,850,2550,44,East
+2025-08-20,P102,Fashion,Denim Jacket,4,1200,4800,98,South
+2025-06-27,P104,Electronics,Gaming Mouse,3,850,2550,79,South
+2025-09-18,P104,Electronics,Gaming Mouse,5,850,4250,83,South
+2025-07-29,P105,Fashion,Sneakers,3,3200,9600,136,South
+2025-06-12,P102,Fashion,Denim Jacket,5,1200,6000,26,West
+2025-06-07,P106,Home,Blender,12,2100,25200,49,South
+2025-07-09,P101,Electronics,Wireless Buds,4,2500,10000,5,East
+2025-07-03,P102,Fashion,Denim Jacket,2,1200,2400,150,North
+2025-08-22,P103,Home,Smart Bulb,1,450,450,112,East
+2025-07-23,P103,Home,Smart Bulb,1,450,450,58,West
+2025-11-10,P103,Home,Smart Bulb,3,450,1350,75,West
+2025-09-21,P102,Fashion,Denim Jacket,3,1200,3600,35,West
+2025-06-30,P104,Electronics,Gaming Mouse,4,850,3400,82,East
+2025-11-07,P103,Home,Smart Bulb,1,450,450,33,West
+2025-08-28,P105,Fashion,Sneakers,5,3200,16000,70,West
+2025-07-09,P103,Home,Smart Bulb,5,450,2250,67,South
+2025-06-28,P104,Electronics,Gaming Mouse,12,850,10200,92,West
+2025-09-01,P103,Home,Smart Bulb,3,450,1350,86,West
+2025-06-15,P103,Home,Smart Bulb,6,450,2700,62,North
+2025-07-29,P106,Home,Blender,5,2100,10500,12,East
+2025-06-20,P105,Fashion,Sneakers,2,3200,6400,140,South
+2025-11-16,P101,Electronics,Wireless Buds,9,2500,22500,70,South
+2025-08-23,P103,Home,Smart Bulb,6,450,2700,33,East
+2025-07-14,P101,Electronics,Wireless Buds,3,2500,7500,17,North
+2025-10-23,P101,Electronics,Wireless Buds,1,2500,2500,0,West
+2025-10-06,P104,Electronics,Gaming Mouse,2,850,1700,21,East
+2025-10-21,P104,Electronics,Gaming Mouse,3,850,2550,131,East
+2025-09-27,P101,Electronics,Wireless Buds,3,2500,7500,0,West
+2025-08-26,P101,Electronics,Wireless Buds,4,2500,10000,16,East
+2025-10-18,P101,Electronics,Wireless Buds,9,2500,22500,67,West
+2025-10-17,P106,Home,Blender,5,2100,10500,49,South
+2025-11-16,P101,Electronics,Wireless Buds,12,2500,30000,129,East
+2025-07-24,P101,Electronics,Wireless Buds,3,2500,7500,79,West
+2025-09-16,P103,Home,Smart Bulb,4,450,1800,14,East
+2025-07-05,P103,Home,Smart Bulb,6,450,2700,76,North
+2025-07-05,P104,Electronics,Gaming Mouse,9,850,7650,87,West
+2025-07-23,P105,Fashion,Sneakers,5,3200,16000,126,West
+2025-11-27,P106,Home,Blender,1,2100,2100,43,West
+2025-08-20,P104,Electronics,Gaming Mouse,1,850,850,147,East
+2025-08-20,P101,Electronics,Wireless Buds,4,2500,10000,94,North
+2025-10-15,P101,Electronics,Wireless Buds,5,2500,12500,30,South
+2025-08-02,P101,Electronics,Wireless Buds,12,2500,30000,5,East
+2025-09-23,P102,Fashion,Denim Jacket,4,1200,4800,75,East
+2025-11-02,P105,Fashion,Sneakers,9,3200,28800,146,North
+2025-10-06,P101,Electronics,Wireless Buds,4,2500,10000,2,South
+2025-07-06,P104,Electronics,Gaming Mouse,12,850,10200,57,North
+2025-07-10,P101,Electronics,Wireless Buds,1,2500,2500,131,West
+2025-09-07,P106,Home,Blender,15,2100,31500,81,North
+2025-06-02,P102,Fashion,Denim Jacket,4,1200,4800,73,West
+2025-07-29,P101,Electronics,Wireless Buds,3,2500,7500,13,North
+2025-09-24,P104,Electronics,Gaming Mouse,5,850,4250,125,East
+2025-10-19,P105,Fashion,Sneakers,9,3200,28800,63,South
+2025-10-26,P106,Home,Blender,9,2100,18900,73,West
+2025-08-20,P102,Fashion,Denim Jacket,4,1200,4800,57,East
+2025-09-21,P102,Fashion,Denim Jacket,12,1200,14400,118,West
+2025-08-16,P105,Fashion,Sneakers,12,3200,38400,145,West
+2025-08-31,P107,Electronics,Monitor 24in,9,12000,108000,105,East
+2025-08-11,P103,Home,Smart Bulb,4,450,1800,33,West
+2025-11-20,P103,Home,Smart Bulb,2,450,900,24,North
+2025-07-26,P106,Home,Blender,9,2100,18900,118,West
+2025-10-15,P106,Home,Blender,2,2100,4200,88,East
+2025-10-23,P103,Home,Smart Bulb,3,450,1350,100,North
+2025-06-01,P102,Fashion,Denim Jacket,9,1200,10800,82,East
+2025-07-03,P107,Electronics,Monitor 24in,1,12000,12000,13,East
+2025-11-04,P105,Fashion,Sneakers,3,3200,9600,19,West
+2025-06-15,P102,Fashion,Denim Jacket,6,1200,7200,2,South
+2025-06-15,P105,Fashion,Sneakers,9,3200,28800,50,West
+2025-07-06,P103,Home,Smart Bulb,3,450,1350,17,East
+2025-10-03,P101,Electronics,Wireless Buds,2,2500,5000,39,West
+2025-10-03,P101,Electronics,Wireless Buds,1,2500,2500,79,East
+2025-08-11,P101,Electronics,Wireless Buds,5,2500,12500,51,North
+2025-07-19,P105,Fashion,Sneakers,9,3200,28800,92,East
+2025-10-26,P103,Home,Smart Bulb,12,450,5400,24,North
+2025-10-21,P104,Electronics,Gaming Mouse,5,850,4250,63,North
+2025-09-14,P104,Electronics,Gaming Mouse,12,850,10200,123,East
+2025-06-18,P102,Fashion,Denim Jacket,5,1200,6000,30,West
+2025-09-03,P105,Fashion,Sneakers,1,3200,3200,28,West
+2025-11-11,P104,Electronics,Gaming Mouse,2,850,1700,5,West
+2025-09-10,P103,Home,Smart Bulb,2,450,900,123,East
+2025-07-10,P102,Fashion,Denim Jacket,5,1200,6000,55,East
+2025-11-01,P105,Fashion,Sneakers,15,3200,48000,36,East
+2025-11-27,P104,Electronics,Gaming Mouse,4,850,3400,99,North
+2025-06-11,P104,Electronics,Gaming Mouse,1,850,850,63,East
+2025-07-01,P101,Electronics,Wireless Buds,2,2500,5000,79,North
+2025-09-28,P101,Electronics,Wireless Buds,9,2500,22500,4,West
+2025-07-23,P104,Electronics,Gaming Mouse,4,850,3400,145,North
+2025-09-08,P105,Fashion,Sneakers,1,3200,3200,47,East
+2025-09-04,P103,Home,Smart Bulb,5,450,2250,40,East
+2025-06-21,P105,Fashion,Sneakers,12,3200,38400,92,South
+2025-10-25,P106,Home,Blender,3,2100,6300,62,West
+2025-06-05,P102,Fashion,Denim Jacket,5,1200,6000,96,East
+2025-07-08,P101,Electronics,Wireless Buds,3,2500,7500,45,North
+2025-11-01,P105,Fashion,Sneakers,9,3200,28800,44,East
+2025-06-11,P104,Electronics,Gaming Mouse,5,850,4250,97,West
+2025-08-09,P106,Home,Blender,9,2100,18900,116,East
+2025-06-06,P101,Electronics,Wireless Buds,4,2500,10000,14,East
+2025-11-25,P101,Electronics,Wireless Buds,2,2500,5000,127,West
+2025-10-16,P103,Home,Smart Bulb,5,450,2250,29,East
+2025-07-16,P106,Home,Blender,4,2100,8400,135,West
+2025-09-22,P102,Fashion,Denim Jacket,3,1200,3600,13,West
+2025-09-08,P106,Home,Blender,4,2100,8400,17,South
+2025-09-05,P102,Fashion,Denim Jacket,3,1200,3600,74,South
+2025-07-05,P106,Home,Blender,3,2100,6300,108,West
+2025-11-24,P106,Home,Blender,1,2100,2100,134,North
+2025-09-08,P107,Electronics,Monitor 24in,1,12000,12000,128,South
+2025-11-13,P102,Fashion,Denim Jacket,4,1200,4800,112,East
+2025-10-13,P102,Fashion,Denim Jacket,3,1200,3600,111,West
+2025-09-04,P103,Home,Smart Bulb,1,450,450,120,West
+2025-09-27,P101,Electronics,Wireless Buds,3,2500,7500,16,East
+2025-06-14,P104,Electronics,Gaming Mouse,12,850,10200,11,South
+2025-06-26,P105,Fashion,Sneakers,4,3200,12800,130,East
+2025-10-06,P104,Electronics,Gaming Mouse,1,850,850,89,East
+2025-08-12,P107,Electronics,Monitor 24in,2,12000,24000,92,West
+2025-06-04,P102,Fashion,Denim Jacket,3,1200,3600,23,West
+2025-07-11,P102,Fashion,Denim Jacket,1,1200,1200,109,East
+2025-07-18,P107,Electronics,Monitor 24in,1,12000,12000,56,West
+2025-07-21,P104,Electronics,Gaming Mouse,4,850,3400,14,South
+2025-10-14,P102,Fashion,Denim Jacket,5,1200,6000,43,South
+2025-09-03,P101,Electronics,Wireless Buds,2,2500,5000,104,West
+2025-06-27,P103,Home,Smart Bulb,5,450,2250,86,South
+2025-09-18,P107,Electronics,Monitor 24in,5,12000,60000,75,East
+2025-09-13,P105,Fashion,Sneakers,3,3200,9600,112,West
+2025-08-21,P102,Fashion,Denim Jacket,5,1200,6000,32,North
+2025-10-04,P105,Fashion,Sneakers,9,3200,28800,60,South
+2025-11-07,P107,Electronics,Monitor 24in,5,12000,60000,129,North
+2025-10-26,P106,Home,Blender,12,2100,25200,6,South
+2025-06-27,P102,Fashion,Denim Jacket,3,1200,3600,127,North
+2025-10-18,P106,Home,Blender,12,2100,25200,43,West
+2025-08-20,P106,Home,Blender,1,2100,2100,56,North
+2025-09-12,P104,Electronics,Gaming Mouse,5,850,4250,76,South
+2025-11-22,P102,Fashion,Denim Jacket,12,1200,14400,42,East
+2025-11-23,P106,Home,Blender,3,2100,6300,88,West
+2025-11-12,P107,Electronics,Monitor 24in,1,12000,12000,102,East
+2025-08-16,P103,Home,Smart Bulb,9,450,4050,47,North
+2025-06-19,P101,Electronics,Wireless Buds,5,2500,12500,3,East
+2025-08-22,P107,Electronics,Monitor 24in,3,12000,36000,14,East
+2025-10-17,P101,Electronics,Wireless Buds,2,2500,5000,85,South
+2025-10-15,P105,Fashion,Sneakers,4,3200,12800,108,West
+2025-08-31,P103,Home,Smart Bulb,6,450,2700,81,East
+2025-10-29,P101,Electronics,Wireless Buds,3,2500,7500,1,North
+2025-08-04,P104,Electronics,Gaming Mouse,4,850,3400,99,North
+2025-11-18,P105,Fashion,Sneakers,2,3200,6400,123,West
+2025-11-15,P104,Electronics,Gaming Mouse,3,850,2550,69,North
+2025-09-03,P103,Home,Smart Bulb,2,450,900,23,East
+2025-06-20,P106,Home,Blender,5,2100,10500,92,West
+2025-06-19,P106,Home,Blender,3,2100,6300,120,South
+2025-10-21,P101,Electronics,Wireless Buds,4,2500,10000,9,South
+2025-07-23,P102,Fashion,Denim Jacket,1,1200,1200,14,East
+2025-09-29,P101,Electronics,Wireless Buds,4,2500,10000,134,North
+2025-09-14,P102,Fashion,Denim Jacket,6,1200,7200,139,North
+2025-11-06,P106,Home,Blender,4,2100,8400,15,East
+2025-09-29,P102,Fashion,Denim Jacket,5,1200,6000,3,North
+2025-10-24,P103,Home,Smart Bulb,5,450,2250,98,East
+2025-08-29,P107,Electronics,Monitor 24in,1,12000,12000,51,East
+2025-10-01,P103,Home,Smart Bulb,3,450,1350,94,North
+2025-09-30,P104,Electronics,Gaming Mouse,2,850,1700,129,West
+2025-07-18,P106,Home,Blender,2,2100,4200,93,East
+2025-11-24,P105,Fashion,Sneakers,3,3200,9600,78,North
+2025-11-02,P105,Fashion,Sneakers,3,3200,9600,109,South
+2025-07-09,P106,Home,Blender,2,2100,4200,38,West
+2025-07-28,P105,Fashion,Sneakers,2,3200,6400,79,North
+2025-08-22,P106,Home,Blender,2,2100,4200,43,East
+2025-08-15,P105,Fashion,Sneakers,2,3200,6400,105,North
+2025-10-03,P107,Electronics,Monitor 24in,5,12000,60000,122,East
+2025-09-20,P104,Electronics,Gaming Mouse,12,850,10200,111,East
+2025-08-14,P104,Electronics,Gaming Mouse,2,850,1700,23,East
+2025-06-06,P104,Electronics,Gaming Mouse,1,850,850,87,East
+2025-07-08,P102,Fashion,Denim Jacket,2,1200,2400,25,East
+2025-11-15,P102,Fashion,Denim Jacket,15,1200,18000,122,West
+2025-09-03,P101,Electronics,Wireless Buds,4,2500,10000,4,East
+2025-10-02,P105,Fashion,Sneakers,5,3200,16000,80,West
+2025-11-14,P106,Home,Blender,3,2100,6300,62,East
+2025-08-10,P103,Home,Smart Bulb,6,450,2700,90,South
+2025-07-22,P106,Home,Blender,5,2100,10500,2,West
+2025-10-02,P104,Electronics,Gaming Mouse,4,850,3400,41,South
+2025-10-15,P101,Electronics,Wireless Buds,2,2500,5000,125,East
+2025-06-30,P106,Home,Blender,1,2100,2100,115,West
+2025-11-25,P105,Fashion,Sneakers,1,3200,3200,13,East
+2025-08-27,P107,Electronics,Monitor 24in,3,12000,36000,30,East
+2025-10-31,P104,Electronics,Gaming Mouse,1,850,850,26,West
+2025-10-09,P101,Electronics,Wireless Buds,5,2500,12500,16,East
+2025-10-20,P103,Home,Smart Bulb,1,450,450,112,South
+2025-07-11,P102,Fashion,Denim Jacket,3,1200,3600,135,West
+2025-06-02,P106,Home,Blender,2,2100,4200,2,East
+2025-09-22,P105,Fashion,Sneakers,2,3200,6400,54,East
+2025-08-09,P101,Electronics,Wireless Buds,12,2500,30000,77,West
+2025-10-27,P103,Home,Smart Bulb,5,450,2250,145,North
+2025-10-09,P104,Electronics,Gaming Mouse,3,850,2550,38,South
+2025-06-24,P102,Fashion,Denim Jacket,5,1200,6000,76,North
+2025-08-17,P103,Home,Smart Bulb,6,450,2700,81,South
+2025-10-22,P106,Home,Blender,3,2100,6300,105,North
+2025-10-08,P106,Home,Blender,1,2100,2100,48,West
+2025-07-06,P105,Fashion,Sneakers,9,3200,28800,128,North
+2025-06-16,P107,Electronics,Monitor 24in,5,12000,60000,145,North
+2025-06-03,P101,Electronics,Wireless Buds,1,2500,2500,89,East
+2025-10-12,P104,Electronics,Gaming Mouse,3,850,2550,24,East
+2025-08-26,P101,Electronics,Wireless Buds,5,2500,12500,21,West
+2025-08-09,P104,Electronics,Gaming Mouse,9,850,7650,112,East
+2025-11-03,P101,Electronics,Wireless Buds,3,2500,7500,22,West
+2025-10-26,P101,Electronics,Wireless Buds,9,2500,22500,14,West
+2025-09-14,P102,Fashion,Denim Jacket,6,1200,7200,6,South
+2025-09-25,P104,Electronics,Gaming Mouse,1,850,850,45,West
+2025-09-03,P104,Electronics,Gaming Mouse,1,850,850,32,East
+2025-11-09,P103,Home,Smart Bulb,15,450,6750,135,East
+2025-10-01,P105,Fashion,Sneakers,2,3200,6400,145,North
+2025-11-25,P107,Electronics,Monitor 24in,1,12000,12000,84,North
+2025-06-12,P106,Home,Blender,3,2100,6300,148,East
+2025-08-13,P101,Electronics,Wireless Buds,2,2500,5000,7,West
+2025-08-30,P107,Electronics,Monitor 24in,6,12000,72000,117,North
+2025-06-09,P104,Electronics,Gaming Mouse,2,850,1700,49,North
+2025-10-12,P101,Electronics,Wireless Buds,9,2500,22500,31,West
+2025-07-27,P104,Electronics,Gaming Mouse,6,850,5100,100,South
+2025-07-21,P107,Electronics,Monitor 24in,4,12000,48000,146,South
+2025-06-23,P101,Electronics,Wireless Buds,5,2500,12500,117,North
+2025-07-02,P101,Electronics,Wireless Buds,2,2500,5000,63,South
+2025-10-07,P106,Home,Blender,3,2100,6300,15,East
+2025-07-10,P105,Fashion,Sneakers,1,3200,3200,14,North
+2025-09-28,P105,Fashion,Sneakers,12,3200,38400,73,South
+2025-07-22,P106,Home,Blender,4,2100,8400,12,North
+2025-11-19,P107,Electronics,Monitor 24in,5,12000,60000,129,East
+2025-11-12,P102,Fashion,Denim Jacket,5,1200,6000,22,West
+2025-06-05,P104,Electronics,Gaming Mouse,4,850,3400,76,West
+2025-08-30,P105,Fashion,Sneakers,6,3200,19200,48,South
+2025-11-18,P102,Fashion,Denim Jacket,4,1200,4800,149,North
+2025-08-20,P101,Electronics,Wireless Buds,2,2500,5000,5,West
+2025-08-17,P107,Electronics,Monitor 24in,15,12000,180000,58,West
+2025-09-29,P104,Electronics,Gaming Mouse,3,850,2550,80,North
+2025-06-13,P103,Home,Smart Bulb,5,450,2250,131,North
+2025-11-11,P102,Fashion,Denim Jacket,1,1200,1200,118,North
+2025-11-22,P104,Electronics,Gaming Mouse,3,850,2550,141,West
+2025-08-01,P104,Electronics,Gaming Mouse,3,850,2550,105,North
+2025-10-09,P104,Electronics,Gaming Mouse,2,850,1700,6,North
+2025-09-12,P104,Electronics,Gaming Mouse,5,850,4250,88,South
+2025-07-31,P101,Electronics,Wireless Buds,3,2500,7500,1,East
+2025-11-04,P102,Fashion,Denim Jacket,4,1200,4800,78,East
+2025-06-19,P104,Electronics,Gaming Mouse,3,850,2550,20,South
+2025-10-23,P106,Home,Blender,3,2100,6300,71,East
+2025-09-18,P107,Electronics,Monitor 24in,5,12000,60000,76,South
+2025-06-30,P102,Fashion,Denim Jacket,3,1200,3600,138,West
+2025-11-27,P105,Fashion,Sneakers,1,3200,3200,47,East
+2025-06-06,P102,Fashion,Denim Jacket,5,1200,6000,11,West
+2025-08-23,P104,Electronics,Gaming Mouse,15,850,12750,114,East
+2025-08-24,P104,Electronics,Gaming Mouse,6,850,5100,94,South
+2025-11-27,P101,Electronics,Wireless Buds,5,2500,12500,144,South
+2025-07-19,P104,Electronics,Gaming Mouse,6,850,5100,143,North
+2025-08-28,P106,Home,Blender,5,2100,10500,9,West
+2025-10-10,P104,Electronics,Gaming Mouse,3,850,2550,62,South
+2025-07-16,P107,Electronics,Monitor 24in,3,12000,36000,31,West
+2025-07-04,P103,Home,Smart Bulb,3,450,1350,73,South
+2025-10-12,P102,Fashion,Denim Jacket,3,1200,3600,131,East
+2025-06-15,P106,Home,Blender,6,2100,12600,144,West
+2025-08-01,P104,Electronics,Gaming Mouse,5,850,4250,6,North
+2025-06-24,P104,Electronics,Gaming Mouse,2,850,1700,145,East
+2025-08-07,P105,Fashion,Sneakers,5,3200,16000,128,South
+2025-11-28,P107,Electronics,Monitor 24in,2,12000,24000,99,East
+2025-10-06,P101,Electronics,Wireless Buds,4,2500,10000,37,East
+2025-08-01,P107,Electronics,Monitor 24in,3,12000,36000,26,North
+2025-11-14,P101,Electronics,Wireless Buds,2,2500,5000,109,West
+2025-06-09,P101,Electronics,Wireless Buds,3,2500,7500,137,North
+2025-09-20,P104,Electronics,Gaming Mouse,6,850,5100,143,North
+2025-09-11,P104,Electronics,Gaming Mouse,4,850,3400,38,North
+2025-07-25,P101,Electronics,Wireless Buds,5,2500,12500,1,West
+2025-07-28,P102,Fashion,Denim Jacket,3,1200,3600,48,South
+2025-10-03,P103,Home,Smart Bulb,5,450,2250,40,South
+2025-10-06,P105,Fashion,Sneakers,5,3200,16000,108,West
+2025-10-03,P104,Electronics,Gaming Mouse,1,850,850,131,West
+2025-09-21,P102,Fashion,Denim Jacket,15,1200,18000,31,West
+2025-10-03,P107,Electronics,Monitor 24in,4,12000,48000,50,East
+2025-08-06,P107,Electronics,Monitor 24in,3,12000,36000,93,North
+2025-07-22,P101,Electronics,Wireless Buds,1,2500,2500,18,East
+2025-09-14,P104,Electronics,Gaming Mouse,6,850,5100,65,East
+2025-09-20,P102,Fashion,Denim Jacket,9,1200,10800,132,West
+2025-11-14,P106,Home,Blender,5,2100,10500,95,North
+2025-09-27,P103,Home,Smart Bulb,15,450,6750,59,East
+2025-06-10,P105,Fashion,Sneakers,3,3200,9600,145,North
+2025-07-19,P105,Fashion,Sneakers,15,3200,48000,51,West
+2025-08-19,P103,Home,Smart Bulb,2,450,900,64,North
+2025-09-01,P101,Electronics,Wireless Buds,5,2500,12500,76,South
+2025-07-30,P106,Home,Blender,3,2100,6300,107,South
+2025-06-03,P107,Electronics,Monitor 24in,2,12000,24000,7,West
+2025-09-07,P104,Electronics,Gaming Mouse,9,850,7650,10,West
+2025-09-02,P102,Fashion,Denim Jacket,1,1200,1200,12,East
+2025-11-06,P104,Electronics,Gaming Mouse,4,850,3400,43,South
+2025-06-08,P101,Electronics,Wireless Buds,12,2500,30000,17,East
+2025-11-27,P102,Fashion,Denim Jacket,1,1200,1200,101,South
+2025-07-21,P107,Electronics,Monitor 24in,2,12000,24000,63,West
+2025-09-14,P101,Electronics,Wireless Buds,9,2500,22500,0,North
+2025-06-16,P103,Home,Smart Bulb,2,450,900,25,North
+2025-06-23,P101,Electronics,Wireless Buds,3,2500,7500,1,North
+2025-08-08,P103,Home,Smart Bulb,3,450,1350,127,East
+2025-09-30,P101,Electronics,Wireless Buds,3,2500,7500,0,North
+2025-11-14,P103,Home,Smart Bulb,1,450,450,12,West
+2025-08-25,P101,Electronics,Wireless Buds,3,2500,7500,120,North
+2025-06-01,P106,Home,Blender,6,2100,12600,63,East
+2025-11-12,P105,Fashion,Sneakers,1,3200,3200,106,North
+2025-11-13,P104,Electronics,Gaming Mouse,4,850,3400,37,North
+2025-10-18,P101,Electronics,Wireless Buds,15,2500,37500,5,East
+2025-08-14,P107,Electronics,Monitor 24in,3,12000,36000,90,West
+2025-10-31,P102,Fashion,Denim Jacket,3,1200,3600,128,South
+2025-10-02,P105,Fashion,Sneakers,2,3200,6400,30,East
+2025-08-26,P107,Electronics,Monitor 24in,5,12000,60000,20,North
+2025-11-12,P104,Electronics,Gaming Mouse,4,850,3400,1,West
+2025-07-16,P106,Home,Blender,4,2100,8400,1,East
+2025-07-06,P105,Fashion,Sneakers,6,3200,19200,84,South
+2025-10-01,P104,Electronics,Gaming Mouse,4,850,3400,10,North
+2025-09-13,P105,Fashion,Sneakers,15,3200,48000,35,South
+2025-07-24,P101,Electronics,Wireless Buds,3,2500,7500,128,South
+2025-09-26,P101,Electronics,Wireless Buds,3,2500,7500,102,North
+2025-08-29,P104,Electronics,Gaming Mouse,3,850,2550,82,West
+2025-08-25,P106,Home,Blender,5,2100,10500,135,North
+2025-10-17,P102,Fashion,Denim Jacket,2,1200,2400,143,South
+2025-07-29,P103,Home,Smart Bulb,2,450,900,84,South
+2025-11-02,P105,Fashion,Sneakers,6,3200,19200,75,South
+2025-08-01,P105,Fashion,Sneakers,1,3200,3200,13,West
+2025-11-15,P104,Electronics,Gaming Mouse,12,850,10200,75,West
+2025-06-23,P103,Home,Smart Bulb,4,450,1800,120,East
+2025-06-22,P102,Fashion,Denim Jacket,9,1200,10800,6,East
+2025-09-24,P102,Fashion,Denim Jacket,2,1200,2400,84,South
+2025-08-24,P105,Fashion,Sneakers,3,3200,9600,56,East
+2025-09-21,P107,Electronics,Monitor 24in,6,12000,72000,67,North
+2025-11-18,P105,Fashion,Sneakers,1,3200,3200,67,South
+2025-07-09,P103,Home,Smart Bulb,1,450,450,38,North
+2025-09-28,P101,Electronics,Wireless Buds,6,2500,15000,15,South
+2025-08-01,P103,Home,Smart Bulb,4,450,1800,101,East
+2025-07-29,P101,Electronics,Wireless Buds,4,2500,10000,85,East
+2025-09-22,P103,Home,Smart Bulb,5,450,2250,108,North
+2025-06-29,P102,Fashion,Denim Jacket,12,1200,14400,24,West
+2025-08-18,P101,Electronics,Wireless Buds,4,2500,10000,141,North
+2025-08-24,P101,Electronics,Wireless Buds,12,2500,30000,103,East
+2025-06-08,P102,Fashion,Denim Jacket,3,1200,3600,53,North
+2025-11-20,P101,Electronics,Wireless Buds,3,2500,7500,1,North
+2025-06-14,P105,Fashion,Sneakers,3,3200,9600,74,West
+2025-06-17,P103,Home,Smart Bulb,4,450,1800,14,East
+2025-10-19,P102,Fashion,Denim Jacket,6,1200,7200,67,East
+2025-08-25,P106,Home,Blender,3,2100,6300,144,South
+2025-07-16,P103,Home,Smart Bulb,3,450,1350,36,West
+2025-09-07,P107,Electronics,Monitor 24in,6,12000,72000,128,North
+2025-11-19,P103,Home,Smart Bulb,2,450,900,128,West
+2025-10-27,P104,Electronics,Gaming Mouse,5,850,4250,91,West
+2025-11-23,P107,Electronics,Monitor 24in,12,12000,144000,88,South
+2025-07-03,P107,Electronics,Monitor 24in,1,12000,12000,113,North
+2025-09-07,P107,Electronics,Monitor 24in,6,12000,72000,128,North
+2025-11-19,P103,Home,Smart Bulb,2,450,900,128,West
+2025-10-27,P104,Electronics,Gaming Mouse,5,850,4250,91,West
+2025-11-23,P107,Electronics,Monitor 24in,12,12000,144000,88,South
+2025-07-03,P107,Electronics,Monitor 24in,1,12000,12000,113,North
